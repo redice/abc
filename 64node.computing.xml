@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="25.0.3">
-  <diagram id="h23u_Ew_2_D2" name="Page-1">
-    <mxGraphModel dx="1242" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-=======
 <mxfile host="app.diagrams.net" modified="2025-06-03T06:44:24.000Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="gK5p0b_jN_Kz-6p8d4Tf" version="24.4.10" type="diagram">
   <diagram id="network_topology" name="Page-1">
     <mxGraphModel dx="1434" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageEnabled="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
@@ -243,7 +235,7 @@
         <mxCell id="2M035N7423m_gVn6FmK6-57" value="" style="endArrow=none;html=1;strokeColor=#1A1A1A;strokeWidth=2;dashed=1;" parent="1" source="2M035N7423m_gVn6FmK6-2" target="2M035N7423m_gVn6FmK6-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="270" as="sourcePoint" />
-Point x="480" y="220" as="targetPoint" />
+            <mxPoint x="480" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2M035N7423m_gVn6FmK6-58" value="400Gb/s" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2M035N7423m_gVn6FmK6-57" visible="1" connectable="0" as="geometry">
@@ -422,7 +414,6 @@ Point x="480" y="220" as="targetPoint" />
         <mxCell id="2M035N7423m_gVn6FmK6-94" value="DGX Nodes (計算節點)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="450" y="460" width="180" height="30" as="geometry" />
         </mxCell>
->>>>>>> da6fc9f (update)
       </root>
     </mxGraphModel>
   </diagram>
